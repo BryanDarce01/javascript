@@ -1,6 +1,8 @@
 # 🧠 Mi conocimientos de JavaScript
 Este repositorio resume mis aprendizajes y fundamentos sólidos en **[JavaScript moderno ES6+](https://www.udemy.com/course/the-complete-javascript-course/)**, desde conceptos básicos hasta programación avanzada orientada a objetos, asincronía, manejo del DOM, módulos y buenas prácticas.
 
+![certificado](./img/javascript_foto.jpg)
+
 ---
 
 ## ⚙️ Fundamentos del Lenguaje
